@@ -1,1 +1,1 @@
-# -Junior-ML-Contest
+# Junior-ML-Contest
